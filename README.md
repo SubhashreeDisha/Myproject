@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Auto typing with speed</h1>
+<h1 align="center" id="title">RapidText Automator</h1>
 
 <p id="description">Auto Typing with Speed is a Python-based tool that simulates automatic typing at a configurable speed. This script can be useful for testing automation or any scenario where you need to simulate typing automatically.</p>
 
