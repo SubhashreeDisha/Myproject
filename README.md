@@ -28,9 +28,9 @@
 
 Here're some of the project's best features:
 
-*   Simulate typing with configurable speed.
-*   Easy to set up and use.
-*   Supports typing of any text string.
+* Customizable Typing Speed: Simulate typing with adjustable speed settings.
+* User-Friendly Setup: Quick and easy to configure and use.
+* Versatile Text Input: Supports the automated typing of any text string.
 
 <h2>🛠️ Installation Steps:</h2>
 
