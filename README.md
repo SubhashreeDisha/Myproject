@@ -21,9 +21,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://asset.cloudinary.com/deenpacph/604d5136ef95fe48d82bf7d86c3d3c73" alt="project-screenshot" width="500" height="500"/>
-
-  
+<img src="file:///C:/Users/subha/Downloads/2024-08-09.png" alt="project-screenshot" width="500" height="500"/>
   
 <h2>🧐 Features</h2>
 
