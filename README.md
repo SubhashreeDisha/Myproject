@@ -61,8 +61,7 @@ Technologies used in the project:
 
 <h2>🛡️ License:</h2>
 
-This project is licensed under the License Name
-
+This project is licensed under GNU General Public License v3.0 (GPL-3.0).
 <h2>💖Like my work?</h2>
 
 Enter Support Information(Optional)<p>http:url</p>
