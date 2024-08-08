@@ -2,7 +2,7 @@
 
 <p id="description">Auto Typing with Speed is a Python-based tool that simulates automatic typing at a configurable speed. This script can be useful for testing automation or any scenario where you need to simulate typing automatically.</p>
 
-<p align="center"><img src="https://img.shields.io/badge/any_text-you_like-blue" alt="shields"><img src="https://img.shields.io/badge/just%20the%20message-8A2BE2" alt="shields"><img src="https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&amp;logo=Dropbox&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&amp;logo=googledrive&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&amp;logo=amazon%20alexa&amp;logoColor=white" alt="shields"></p>
+<p align="left"><img src="https://img.shields.io/badge/any_text-you_like-blue" alt="shields"><img src="https://img.shields.io/badge/just%20the%20message-8A2BE2" alt="shields"><img src="https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&amp;logo=Dropbox&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&amp;logo=googledrive&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&amp;logo=amazon%20alexa&amp;logoColor=white" alt="shields"></p>
 
 <h2>🚀 Demo</h2>
 
