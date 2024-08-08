@@ -57,7 +57,7 @@ Technologies used in the project:
 
 *   python
 *   css
-*   html
+  
 
 <h2>🛡️ License:</h2>
 
