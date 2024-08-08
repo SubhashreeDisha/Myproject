@@ -38,6 +38,8 @@ Here're some of the project's best features:
 
 ```
 git clone https://github.com/yourusername/auto-typing-with-speed.git
+
+cd auto-typing-with-speed
 ```
 
 <p>2. Use the package manager pip pyautogui.</p>
