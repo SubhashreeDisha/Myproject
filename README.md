@@ -48,6 +48,24 @@ cd auto-typing-with-speed
 pip install pyautogui
 ```
 
+<h2>How to use in local System</h2>
+
+<p>1. Install Python</p>
+
+```
+https://www.python.org/downloads/release/python-3125/
+```
+
+<p>2. Git Checkout/Git Download/Manual Copy Paste</p>
+
+<p>3. pip install and then and then run</p>
+
+```
+pip install pyautogui
+
+python_<file name>
+```
+
 <h2>🍰 Contribution Guidelines:</h2>
 
 We welcome contributions! Please fork the repository, create a feature branch, and submit a pull request. Ensure code quality by following PEP 8 standards. Include tests for any new features or bug fixes. All contributions must align with the GPL license.
@@ -64,7 +82,7 @@ Technologies used in the project:
 <h2>🛡️ License:</h2>
 
 This project is licensed under GNU General Public License v3.0 (GPL-3.0).
-<h2>How to use in local System</h2>
+
 
 
 
