@@ -48,8 +48,7 @@ pip install pyautogui
 
 <h2>🍰 Contribution Guidelines:</h2>
 
-Contribution Guidelines
-
+We welcome contributions! Please fork the repository, create a feature branch, and submit a pull request. Ensure code quality by following PEP 8 standards. Include tests for any new features or bug fixes. All contributions must align with the GPL license.
   
   
 <h2>💻 Built with</h2>
