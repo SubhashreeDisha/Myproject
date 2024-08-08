@@ -1,6 +1,6 @@
-<h1 align="center" id="title">RapidText Automator</h1>
+<h1 align="center" id="title">AutoType Express</h1>
 
-<p id="description">Auto Typing with Speed is a Python-based tool that simulates automatic typing at a configurable speed. This script can be useful for testing automation or any scenario where you need to simulate typing automatically.</p>
+<p id="description">AutoType Express is a Python-powered tool that simulates typing at customizable speeds. Perfect for automation testing, this script mimics human typing with precision, offering a versatile solution for any scenario requiring automated text input. Whether you're testing software, demonstrating features, or creating controlled typing environments, AutoType Express delivers speed and accuracy in automated typing tasks.</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/any_text-you_like-blue" alt="shields">
