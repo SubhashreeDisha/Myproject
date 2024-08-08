@@ -5,7 +5,6 @@
 <p align="center">
     <img src="https://img.shields.io/badge/any_text-you_like-blue" alt="shields">
     <img src="https://img.shields.io/badge/just%20the%20message-8A2BE2" alt="shields">
-    <img src="https://camo.githubusercontent.com/a1af96a5705b7089d7d1bff4000761aec6cc02468ada06247bd7c4a25ab8cbf1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5375627363726962652d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" alt="youtube"/>
 </p>
 
 <p align="center">
