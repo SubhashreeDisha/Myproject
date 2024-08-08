@@ -63,7 +63,7 @@ https://www.python.org/downloads/release/python-3125/
 ```
 pip install pyautogui
 
-python_<file name>
+python <file_name>
 ```
 
 <h2>🍰 Contribution Guidelines:</h2>
