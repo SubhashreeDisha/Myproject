@@ -2,7 +2,7 @@
 
 <p id="description">Auto Typing with Speed is a Python-based tool that simulates automatic typing at a configurable speed. This script can be useful for testing automation or any scenario where you need to simulate typing automatically.</p>
 
-<p>
+<p display="flex" justify="center">
   <div>
     <img src="https://img.shields.io/badge/any_text-you_like-blue" alt="shields">
     <img src="https://img.shields.io/badge/just%20the%20message-8A2BE2" alt="shields">
