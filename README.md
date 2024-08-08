@@ -17,12 +17,13 @@ Auto Typing with Speed is a Python-based tool that simulates automatic typing at
 
 Clone the repository
 
-bash
+```bash
   git clone https://github.com/yourusername/auto-typing-with-speed.git
   cd auto-typing-with-speed
-
+```
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pyautogui.
 
-bash
-  pip install pyautogui
+```bash
+  pip install pyautogui
+```
