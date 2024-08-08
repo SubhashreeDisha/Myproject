@@ -1,36 +1,38 @@
-# Auto typing with speed
-Auto typing with speed
+def generate_readme():
+    readme_content = """
+# Best-README-Template
 
-pip install pyautogui
+An awesome README template to jumpstart your projects!  
+[Explore the docs »](https://your.documentation.link)
 
+## Table of Contents
 
+- [About The Project](#about-the-project)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [License](#license)
+- [Contact](#contact)
 
-# Auto Typing with Speed
+## About The Project
 
-## Overview
+![Product Name Screen Shot](images/screenshot.png)
 
-Auto Typing with Speed is a Python-based tool that simulates automatic typing at a configurable speed. This script can be useful for testing, automation, or any scenario where you need to simulate typing automatically.
+Here's a blank template to get started:
 
-## Features
+- Your point 1
+- Your point 2
+- Your point 3
 
-- Simulate typing with configurable speed.
-- Easy to set up and use.
-- Supports typing of any text string.
+Of course, you don't have to follow this structure. You can add whatever sections you see fit.
 
-## Requirements
+## Getting Started
 
-- Python 3.x
-- `pyautogui` library
+To get a local copy up and running follow these simple steps.
 
-## Installation
+### Prerequisites
 
-1. Clone the repository:
+This is an example of how to list things you need to use the software and how to install them.
 
-   ```bash
-   git clone https://github.com/yourusername/auto-typing-with-speed.git
-   cd auto-typing-with-speed
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pyautogui.
-
-```bash
-pip install pyautogui
-```
+- npm
+  ```sh
+  npm install npm@latest -g
