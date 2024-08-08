@@ -22,7 +22,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="Myproject/2024-08-09.png" width="500" height="500"/>
+<img src="/2024-08-09.png" width="500" height="500"/>
   
 <h2>🧐 Features</h2>
 
